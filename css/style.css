@@ -1,9 +1,9 @@
 /************************************************ HEADER *********************************************/
-#mainHeader, #mainFooter{
-    /*background-color: var(--red);*/
-    position: fixed;
-    width: 100%;
-}
+/*#mainHeader, #mainFooter{*/
+/*    !*background-color: var(--red);*!*/
+/*    position: fixed;*/
+/*    width: 100%;*/
+/*}*/
 /*#mainHeader {*/
 /*    background-color: #72be72;*/
 /*    display: grid;*/
